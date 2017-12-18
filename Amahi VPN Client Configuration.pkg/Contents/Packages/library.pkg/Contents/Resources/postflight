@@ -1,0 +1,2 @@
+#! /bin/sh
+sleep 4; /Applications/TextEdit.app/Contents/MacOS/TextEdit "$HOME/Library/openvpn/MyHDA.conf" &
